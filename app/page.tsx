@@ -17,7 +17,7 @@ const BUCKET = "xerox-files";
 
 const B_W_PRICE = 2;
 const COLOR_PRICE = 10;
-const UPI_ID = "AKKA_UPI_ID_INGA_PANNU@okicici";
+const UPI_ID = "upi@okicici";
 
 export default function Home() {
   const router = useRouter();
